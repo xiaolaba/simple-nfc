@@ -3,13 +3,13 @@
 
 ### uses avr-gcc to build, try mega168p  
 add function prototype to nfcemulator.h  
-uses bat to build hex and flash to mega168p
+uses bat to build hex and flash to mega168p  
 [NfcEmul_xiaolaba_testing](NfcEmul_xiaolaba_testing)  
 
 
 
 
-
+# simple-nfc
 
 
 "software-only" nfc-tag-emulator (ISO 14443-3 "compatible" Type 2) for 8 bit microcontrollers
