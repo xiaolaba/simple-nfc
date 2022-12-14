@@ -1,0 +1,7 @@
+https://www.serasidis.gr/circuits/RFID_reader/125kHz_RFID_reader.htm
+
+https://www.nonan.net/nkruse/simplenfc
+
+https://www.nonan.net/nkruse/files/copy/passive_nfc_environmental_sensor.pdf
+
+https://www.blackhillsinfosec.com/rfid-proximity-cloning-attacks/
